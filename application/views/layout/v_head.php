@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="<?= base_url() ?>template/frontend/img/1.jpeg" rel="icon">
+    <link href="<?= base_url() ?>template/front-end/img/1.jpeg" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,12 +21,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="<?= base_url() ?>template/frontend/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="<?= base_url() ?>template/frontend/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="<?= base_url() ?>template/front-end/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="<?= base_url() ?>template/front-end/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="<?= base_url() ?>template/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= base_url() ?>template/front-end/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="<?= base_url() ?>template/frontend/css/style.css" rel="stylesheet">
+    <link href="<?= base_url() ?>template/front-end/css/style.css" rel="stylesheet">
 </head>
