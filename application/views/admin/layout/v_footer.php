@@ -1,4 +1,9 @@
 </div>
+                        <!-- /.col-lg-12 -->
+</div>
+                    <!-- /.row -->
+</div>
+</div>
             <!-- /#page-wrapper -->
 
         </div>

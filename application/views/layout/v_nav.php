@@ -3,7 +3,7 @@
 <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="index.html" class="navbar-brand p-0">
-                    <h1 class="m-0">LegalConsult</h1>
+                    <h1 class="m-0">Fra & Co. Law Firm</h1>
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -12,34 +12,43 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
-                        <a href="service.html" class="nav-item nav-link">Service</a>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+						<div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Layanan Hukum</a>
                             <div class="dropdown-menu m-0">
-                                <a href="feature.html" class="dropdown-item">Features</a>
-                                <a href="quote.html" class="dropdown-item">Free Quote</a>
-                                <a href="team.html" class="dropdown-item">Our Team</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="404.html" class="dropdown-item">404 Page</a>
+                                <a href="feature.html" class="dropdown-item">Hukum Perdata</a>
+                                <a href="quote.html" class="dropdown-item">Hukum Pidana</a>
+                                <a href="team.html" class="dropdown-item">Hukum Bisnis</a>
+                                <a href="testimonial.html" class="dropdown-item">Hukum Keluarga</a>
+                                <a href="404.html" class="dropdown-item">Hukum Adat</a>
                             </div>
-                        </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+					</div>
+					<div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Jenis Konsultasi</a>
+                            <div class="dropdown-menu m-0">
+                                <a href="feature.html" class="dropdown-item">Konsultasi Tatap Muka</a>
+                                <a href="quote.html" class="dropdown-item">Konsultasi via chat</a>
+                                <a href="team.html" class="dropdown-item">Konsultasi Via Telepon</a>
+                            </div>
+					</div>
+                        <a href="about.html" class="nav-item nav-link">Our Team</a>
+                        <a href="service.html" class="nav-item nav-link">About Us</a>
+                        <a href="contact.html" class="nav-item nav-link">Testimoni</a>
+						<a href="contact.html" class="nav-item nav-link">Gallery</a>
+						
                     </div>
-                    <a href="" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">Register or Login</a>
+                    <a href="" class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">Login</a>
                 </div>
             </nav>
 			<div class="container-xxl bg-primary hero-header">
                 <div class="container">
                     <div class="row g-5 align-items-center">
                         <div class="col-lg-6 text-center text-lg-start">
-							<p class="text-white pb-4 animated zoomIn">R. HANDY HAYAT AND PARTNERS LAW FIRM AND LEGAL CONSULTANT</p>
                             <h1 class="text-white mb-4 animated zoomIn">Layanan Konsultasi Bantuan Hukum</h1>
                             <p class="text-white pb-2 animated zoomIn">Dapatkan saran hukum terpercaya, serta jaminan kerahasiaan privasi dan data Anda</p>
                             <a href="" class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight">Konsultasi Sekarang</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
-                            <img class="img-fluid animated zoomIn" src="<?= base_url() ?>template/front-end/img/Law1.png" alt="">
+                            <img class="img-fluid animated zoomIn" src="<?= base_url() ?>template/frontend/img/law12.jpg" alt="">
                         </div>
                     </div>
                 </div>

@@ -3,12 +3,14 @@
             <div class="container">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.1s">
-                        <img class="img-fluid" src="<?= base_url() ?>template/frontend/img/about.png">
+                        <img class="img-fluid" src="<?= base_url() ?>template/frontend/img/ferdy.png">
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">About Us</div>
-                        <h2 class="mb-4">Award Wining Consultancy Agency For Your Business</h2>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod</p>
+                        <h2 class="mb-4">History Of Fra & Co. Law Firm</h2>
+                        <p class="mb-4">Fra & Co. Law Firm merupakan firma hukum yang didirikan oleh Ferdy Rizky Adilya, S.H.,M.H.,C.L.A. bersama rekan-rekannya pada masa kuliah Strata 1 dan Strata 2 pada bulan Februari 2017 dengan tim dan staff pendukung lebih dari 7 (tujuh) orang dan berpengalaman dibidangnya. Serta telah terdaftar di Kementerian Hukum dan Hak Asasi Manusia, sesuai dengan Sertifikat Terdaftar Firma Fra & Co. Law Firm Nomor AHU-0000135-AH.01.18 Tahun 2018 tanggal 14 Desember 2018.
+Hingga saat ini, Kantor Fra & Co. Law Firm yang terletak di Jl. Tamborin No. 14, Kel. Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat, dengan maksud dan tujuan kegiatan usahanya adalah kegiatan profesional ilmiah dan teknis di bidang kegiatan hukum, kegiatan pengacara / advokat, hukum kegiatan konsultan, kegiatan konsultan kekayaan intelektual, kegiatan audit subyek hukum, dan kegiatan lainnya sesuai peraturan perundang-undangan yang sah. Sebagai firma hukum multi-praktik di bidang hukum, Fra & Co. Law Firm memberikan nasihat hukum dan bantuan hukum kepada client diberbagai sektor bidang hukum. 
+</p>
                         <div class="row g-3 mb-4">
                             <div class="col-12 d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
@@ -329,9 +331,9 @@
                 <div class="row g-4">
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item">
-                            <h5>Full Name</h5>
-                            <p class="mb-4">Designation</p>
-                            <img class="img-fluid rounded-circle w-100 mb-4" src="<?= base_url() ?>template/frontend/img/team-1.jpg" alt="">
+                            <h5>Ferdy Rizky Adilya, S.H.,M.H.,C.L.A.</h5>
+                            <p class="mb-4">Managing Partner</p>
+                            <img class="img-fluid rounded-circle w-100 mb-4" src="<?= base_url() ?>template/frontend/img/ferdy1.png" alt="">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
@@ -341,9 +343,9 @@
                     </div>
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item">
-                            <h5>Full Name</h5>
-                            <p class="mb-4">Designation</p>
-                            <img class="img-fluid rounded-circle w-100 mb-4" src="<?= base_url() ?>template/frontend/img/team-2.jpg" alt="">
+                            <h5>Aldie Rangga Diputra,S.H, M.H.</h5>
+                            <p class="mb-4">Associate</p>
+                            <img class="img-fluid rounded-circle w-100 mb-4" src="<?= base_url() ?>template/frontend/img/aldi.png" alt="">
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
