@@ -11,7 +11,6 @@
 
         <!-- Bootstrap Core CSS -->
         <link href="<?= base_url()?>template/backend/css/bootstrap.min.css" rel="stylesheet">
-        
 
         <!-- MetisMenu CSS -->
         <link href="<?= base_url()?>template/backend/css/metisMenu.min.css" rel="stylesheet">

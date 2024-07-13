@@ -3,7 +3,10 @@
             <div class="container">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.1s">
+
                         <img class="img-fluid" src="<?= base_url() ?>template/frontend/img/ferdy.png">
+
+                
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">About Us</div>
@@ -245,22 +248,7 @@ Hingga saat ini, Kantor Fra & Co. Law Firm yang terletak di Jl. Tamborin No. 14,
         <!-- Features End -->
 
 
-        <!-- Client Start -->
-        <div class="container-xxl bg-primary my-6 py-5 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="container">
-                <div class="owl-carousel client-carousel">
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-1.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-2.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-3.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-4.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-5.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-6.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-7.png" alt=""></a>
-                    <a href="#"><img class="img-fluid" src="<?= base_url() ?>template/frontend/img/logo-8.png" alt=""></a>
-                </div>
-            </div>
-        </div>
-        <!-- Client End -->
+      
 
 
         <!-- Testimonial Start -->
@@ -331,9 +319,11 @@ Hingga saat ini, Kantor Fra & Co. Law Firm yang terletak di Jl. Tamborin No. 14,
                 <div class="row g-4">
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item">
+
                             <h5>Ferdy Rizky Adilya, S.H.,M.H.,C.L.A.</h5>
                             <p class="mb-4">Managing Partner</p>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="<?= base_url() ?>template/frontend/img/ferdy1.png" alt="">
+
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
@@ -343,9 +333,11 @@ Hingga saat ini, Kantor Fra & Co. Law Firm yang terletak di Jl. Tamborin No. 14,
                     </div>
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item">
+
                             <h5>Aldie Rangga Diputra,S.H, M.H.</h5>
                             <p class="mb-4">Associate</p>
                             <img class="img-fluid rounded-circle w-100 mb-4" src="<?= base_url() ?>template/frontend/img/aldi.png" alt="">
+
                             <div class="d-flex justify-content-center">
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>

@@ -70,8 +70,8 @@
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="<?= base_url() ?>template/frontend/https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="<?= base_url() ?>template/frontend/https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="<?= base_url() ?>template/frontend/lib/wow/wow.min.js"></script>
     <script src="<?= base_url() ?>template/frontend/lib/easing/easing.min.js"></script>
     <script src="<?= base_url() ?>template/frontend/lib/waypoints/waypoints.min.js"></script>
