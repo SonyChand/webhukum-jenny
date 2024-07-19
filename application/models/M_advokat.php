@@ -14,6 +14,12 @@ class M_advokat extends CI_Model {
 		
 	}
 
+	public function add($data)
+	{
+		$this->db->insert('tbl_advokat', $data);
+	}
+
+	
 }
 
 /* End of file M_advokat.php */
