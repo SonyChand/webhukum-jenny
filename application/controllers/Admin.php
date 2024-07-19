@@ -7,7 +7,7 @@ class Admin extends CI_Controller {
 	public function index()
 	{
 		$data = array(
-			'title' => 'LegalConsult',
+			'title' => 'Fra & Co. Law Firm',
 			'title2' => 'Dashboard',
 			'isi' => 'admin/v_home'
 		);

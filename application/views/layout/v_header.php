@@ -1,4 +1,4 @@
-<!-- Top Bar -->
+<!-- Top Bar
 <div class="top_bar">
 			<div class="top_bar_container">
 				<div class="container">
@@ -29,4 +29,4 @@
 					</div>
 				</div>
 			</div>				
-		</div>
+		</div> -->

@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>LegalConsult - <?=$title ?></title>
+        <title>Fra & Co. Law Firm - <?=$title ?></title>
 
         <!-- Bootstrap Core CSS -->
         <link href="<?= base_url()?>template/backend/css/bootstrap.min.css" rel="stylesheet">
