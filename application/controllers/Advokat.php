@@ -30,7 +30,7 @@ class Advokat extends CI_Controller {
 
 		
 		if ($this->form_validation->run() == TRUE) {
-			$config['upload_path'] 			= './foto_advokat/';
+			$config['uploads_path'] 			= './foto_advokat/';
 			$config['allowed_types']        = 'gif|jpg|png';
 			$config['max_size']             = 2000;
 			$this->upload->initialize($config);
